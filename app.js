@@ -46,4 +46,7 @@ function validateForm() {
     alert("Пароли не совпадают");
     return false;
   }
+
+  console.log("Все поля заполнены")
+  return true
 }
