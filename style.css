@@ -12,6 +12,7 @@
   background-color: coral;
 }
 form {
+  padding-top: 30px;
   display: flex;
   flex-direction: column;
   width: 300px;
